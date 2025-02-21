@@ -8,7 +8,7 @@ It contains the following directories:
 
 ## Required dependencies
 
-* ROS1 : [ur_description](https://github.com/ros-industrial/universal_robot/tree/melodic-devel/ur_description)
+* ROS1 : [ur_description](https://github.com/ros-industrial/universal_robot/tree/noetic/ur_description)
 * ROS2 : [ur_description](https://github.com/UniversalRobots/Universal_Robots_ROS2_Description)
 
 ## Installation
